@@ -1,0 +1,42 @@
+GHG emission	Environmental
+Reduce water use or reduce water consumption	Environmental
+Reduce water pollution	Environmental
+"Reduce water degradation (eutrophication, acidification, ecotoxicity)"	Environmental
+Use of waterless dying	Environmental
+Reduction of chemical substances	Environmental
+No harmful pesticides or fertilizers used	Environmental
+Have a restricted substance list	Environmental
+Use of low-impact dye	Environmental
+VOC (volatile organic compounds) reduction	Environmental
+Phasing out PVCs (polyvinyl chloride)	Environmental
+Zero Discharge of Hazardous Materials	Environmental
+Have requirements for silica levels	Environmental
+Reduce use of electricity	Environmental
+Use of green energy	Environmental
+Use of recycled materials	Environmental
+Use alternative to conventional cotton	Environmental
+Use of organic materials	Environmental
+Use recycled polyester	Environmental
+Use environmentally preferred rubber	Environmental
+Use other environmentally preferred materials (bio-based or natural products)	Environmental
+Use natural waste products	Environmental
+Use second-hand materials	Environmental
+Recirculating products through second hand items	Environmental
+Have a packaging reduction target	Environmental
+Use of sustainable packaging	Environmental
+Code of Conduct for suppliers	Social
+Use a supplier ranking system	Social
+Perform unannounced audits on suppliers	Social
+Encourage Environmental Management System (EMS) implementation amongst suppliers 	Social
+Sandblasting ban for denim products	Social
+No child labour	Social
+No human trafficking	Social
+Member of International Labour Organization (ILO)	Social
+Member of Fair Factories Clearinghouse (FFC)	Social
+Member of Fair Labour Association	Social
+Gender Equality	Social
+Compliance with local laws	Social
+Long lasting products	Economic
+Predictability of supply and inventories	Economic
+No waste in production	Economic
+Transparent and traceable products	Economic
