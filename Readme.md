@@ -1,4 +1,4 @@
-# Sustainability and digitization strategies in fashion - analysis pipeline
+# Sustainability and digitalization strategies in Dutch textile and apparel - analysis pipeline
 To get started, you can use `git clone url_for_this_repostiry` to create a local copy.
 The script *1-4A\_Text_mining\_single\_document_group.R* used for the text-mining analysis is part of the Publication *"An original template solution for FAIR scientific text mining"*:
 http://dx.doi.org/10.1016/j.mex.2023.102145
@@ -13,8 +13,8 @@ Full website  html data is not shared since website data is owned by the respect
 To see which websites data was used for this analysis, see the  file *Data set jclepro.xlsx*. 
 
 # Data acquisition and prepossessing  
-The steps described below are not needed to run the analysis since we provide the segregated data set. However, we will provide a full description for all steps we used for transparency and reproducability. 
-In this section we will describe the exact steps performed to retrieve website data and pre-prepossess of the data. To retrieve website information, you can run:
+The steps described below are not needed to run the analysis since we provide the segregated data set. However, we will provide a full description for all steps we used for transparency and reproduceability. 
+In this section we will describe the exact steps performed to retrieve website data and pre-preproccessing of the data. To retrieve website information, you can run:
 
 `python 0_get_web_data.py`. 
 
@@ -22,7 +22,7 @@ Users on Linux might need to use *python3*. In case running the script reports a
 
 
 ## Cleanup of HTML data
-The HTML data extracted from all websites contains an unsupported characters as well as words of interest that for analysis purposes should be conjugated. Conjugation is needed since otherwise they are seen as separate words without considering their context. For example "child  labour" should be conjugated to retain its meaning since these are commonly used in another context, e.g. "children fashion". OThe following text replacements were made to pre-process the data for further analysis:
+The HTML data extracted from all websites contains an unsupported characters as well as words of interest that for analysis purposes should be conjugated. Conjugation is needed since otherwise words are seen as separate without considering their context. For example "child  labour" should be conjugated to retain its meaning since it is commonly used in another context, e.g. "children fashion". The following text replacements were made to pre-process the data for further analysis:
 
 1) Open the file *results_per_base_url.tsv* in the freely available text editor Sublime, replace "<0x0a>" with a space and save the results as *results_per_base_url2.tsv*
 2) Remove non ASCII, multiple space replace with one space.
