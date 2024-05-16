@@ -1,4 +1,4 @@
-# Sustainability and digitalization strategies in Dutch textile and apparel - analysis pipeline
+# Sustainability performance of Dutch firms and the role of digitalization: The case of textile and apparel industry analysis pipeline.
 To get started, you can use `git clone url_for_this_repostiry` to create a local copy.
 The script *1-4A\_Text_mining\_single\_document_group.R* used for the text-mining analysis is part of the Publication *"An original template solution for FAIR scientific text mining"*:
 http://dx.doi.org/10.1016/j.mex.2023.102145
@@ -31,7 +31,7 @@ The HTML data extracted from all websites contains an unsupported characters as 
 `cat results_per_base_url3.tsv | sed  -e 's/fair trade/fair_trade/g' |  sed  -e 's/fair wage/fair_wage/g' |sed  -e 's/second hand/second_hand/g' | sed  -e 's/360 degree/360_degree/g' | sed  -e 's/eco friendly/eco_friendly/g' |sed  -e 's/big data/big_data>/g' | sed  -e 's/fair wages/fair_wages/g' | sed  -e 's/child labor/child_labor/g' | sed  -e 's/child labour/child_labour/g' | sed  -e 's/labor conditions/labor_conditions/g' | sed  -e 's/labour conditions/labour_conditions/g' | sed -e 's/CO2 neutraal/C02_neutral/g' | sed  -e 's/C02 neutral/C02_neutral/g' | sed  -e 's/low impact/low_impact/g'> results_per_base_url4.tsv`  
 For convenience, we provide a list of conjugated words where we replaced space with a hyphen:
 * second-hand
-*big-data
+* big-data
 * fair-wages
 * child-labor
 * labor-conditions
@@ -39,7 +39,7 @@ For convenience, we provide a list of conjugated words where we replaced space w
 * CO2-neutraal
 
 ## Website translation
-Website data was translate to English for further analysis using a translation table created with DeepL language translation services. We did not provide a copy of the translation table since it might infringe on the copy right of DeepL services. See their website for a subscription.
+Website data was translated to English for further analysis using a translation table created with DeepL language translation services. We did not provide a copy of the translation table since it might infringe on the copy right of DeepL services. See their website for a subscription.
 
 ## Reference
-Placeholder,direct link to the article will be placed here upon release of the published article.
+Direct link to the article: Tolentino-Zondervan, F. & Divito, L. 2024. Sustainability performance of Dutch firms and the role of digitalization: The case of textile and apparel industry. Journal of Cleaner Production. 142573. doi: https://doi.org/10.1016/j.jclepro.2024.142573
