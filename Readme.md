@@ -1,4 +1,4 @@
-# Sustainability performance of Dutch firms and the role of digitalization: The case of textile and apparel industry analysis pipeline.
+# Sustainability performance of Dutch firms and the role of digitalization: The case of textile and apparel industry (Analysis pipeline).
 To get started, you can use `git clone url_for_this_repostiry` to create a local copy.
 The script *1-4A\_Text_mining\_single\_document_group.R* used for the text-mining analysis is part of the Publication *"An original template solution for FAIR scientific text mining"*:
 http://dx.doi.org/10.1016/j.mex.2023.102145
